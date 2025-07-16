@@ -1,0 +1,12 @@
+{
+  "generic": {
+    "debug": "yes",
+    "images": "yes"
+  },
+  "rtf": {
+    "images": "no"
+  },
+  "details": {
+    "mode": "full"
+  }
+}
