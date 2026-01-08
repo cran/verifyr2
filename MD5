@@ -1,6 +1,7 @@
-fb0c29c6a96a28a4bf328783c38f411b *DESCRIPTION
+78aacf8885521438105676f2525f0f8a *DESCRIPTION
 fdc041ad53156aeef022b827d6c276d3 *LICENSE
 048378f49e7e3fbbfa93e4c39e07f08e *NAMESPACE
+1875d6c3c7a1526359d57985ade895bd *NEWS.md
 d43e0068cbefeb9252bd8ee124478775 *R/BinaryFileComparator.R
 ae26ca7ba07f37bbe06cde4b169cd504 *R/Config.R
 fa6ba7d9ed40de96735aa082f38fbc3a *R/Debugger.R
@@ -9,13 +10,13 @@ c030462fb6e13b13378676b6172255ce *R/FileComparator.R
 99dba53d810f4bb8cf2aa335963c97f3 *R/ImgFileComparator.R
 6b9c24609e3a3c579525018a2047fa7d *R/PdfFileComparator.R
 7f239d35966776007b408c11a6ab39a9 *R/RtfFileComparator.R
-32ceb0ffb7e1d8fc0d37dd522ca2f8a4 *R/TxtFileComparator.R
+32a03f222ce6de715178bc90a2d9187c *R/TxtFileComparator.R
 63ca125a5d89cc858671bf9e93482481 *R/TxtWithImagesComparator.R
 5e51de4ec57b492110da73288e9c5a42 *R/list_files.R
 c068a2f7935d5dc24c66248af57e79eb *R/list_folder_files.R
 674b6c5c331c062e0183bf83e6092856 *R/run_example.R
 b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
-9d657aea2b22979f737bf72e2f273feb *README.md
+865a58c0c1046400b2c37fa2255671a2 *README.md
 5524f72c3b7999a22e4ac86916dff294 *inst/extdata/base_files/file1.rtf
 c29b716e9bbe91566bd3511e71cb6ff3 *inst/extdata/base_files/file10_graph.png
 5524f72c3b7999a22e4ac86916dff294 *inst/extdata/base_files/file2_additional_rows.rtf
@@ -38,7 +39,7 @@ aee1cbd317fd98bbd7815ba51ceeea3d *inst/extdata/compare_files/file6_multiple_imag
 f5d62315be22673a039e3c2962320682 *inst/extdata/compare_files/file7.json
 2a7b5429eca9e1ba5316f20c7bf50132 *inst/extdata/compare_files/file8.sas
 75f152817cd99a4d385242b3953807ff *inst/extdata/compare_files/file9_graph.png
-88f42808eaa5a51c552c8c007759c594 *inst/shiny_examples/app/app.R
+88a504bf3f4c0ca757260bdc43967c00 *inst/shiny_examples/app/app.R
 1c3767075abd7fedbdac1ee4f8a2f443 *inst/shiny_examples/app/styles.css
 935f216b013d0914cf23ab906e88f3a8 *inst/shiny_examples/app/tests/testthat.R
 9cc6515f2fa8d6ac9e8d6de96e66feba *inst/shiny_examples/app/tests/testthat/_snaps/linux-4.4/shinytest2/app_startup-001.png
